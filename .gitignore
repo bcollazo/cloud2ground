@@ -1,3 +1,6 @@
+# Static Slideshows
+c2g_server/public/slideshows/*
+
 # Logs
 logs
 *.log
